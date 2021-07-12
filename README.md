@@ -1,1 +1,1 @@
-# gatsby-startup-dentaltech
+# piloz-gatsby
